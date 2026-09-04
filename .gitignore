@@ -1,0 +1,5 @@
+node_modules/
+db/poll.db
+db/poll.db-shm
+db/poll.db-wal
+.env
